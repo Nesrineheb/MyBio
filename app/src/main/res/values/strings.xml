@@ -1,6 +1,34 @@
 <resources>
     <string name="app_name">My_BIO</string>
-    <string name="Nom_Person">Personne1</string>
-    <string name="biographie">Je suis persoone1 ma bio </string>
+    <string name="button_name">Biographie aleatoire</string>
+
+    <string name="person_name_1">Karl Marx</string>
+    <string name="person_bio_1">Karl Marx né le 5 mai 1818 à Trèves dans le grand-duché du Bas-Rhin et mort le 14 mars 1883 à Londres, est un philosophe, historien, sociologue, économiste, journaliste, théoricien de la révolution, socialiste et communiste prussien.
+        Il est connu pour sa conception matérialiste de l\'histoire, son analyse des rouages du capitalisme et de la lutte des classes, et pour son activité révolutionnaire au sein du mouvement ouvrier
+    </string>
+
+
+    <string name="person_name_2">Hồ Chí Minh</string>
+    <string name="person_bio_2">
+        né Nguyễn Sinh Cung le 19 mai 1890 à Hoàng Trù (province de Nghê An) et mort le 2 septembre 1969 à Hanoï, est un homme d\'État vietnamien et une figure importante de l\'anticolonialisme et du communisme international.
+    </string>
+
+
+
+    <string name="person_name_3">Che Guevara</string>
+    <string name="person_bio_3">
+       plus connu comme « Che Guevara » ou « le Che », né le 14 juin 1928 à Rosario en Argentine et mort exécuté le 9 octobre 1967 à La Higuera en Bolivie, à l\'âge de 39 ans, est un révolutionnaire marxiste-léniniste et internationaliste argentin ainsi qu\'un homme politique d\'Amérique latine. Il a notamment été un dirigeant de la révolution cubaine, qu\'il a théorisée et tenté d\'exporter, sans succès, vers le Congo puis la Bolivie où il trouve la mort.
+          </string>
+
+    <string name="person_name_4">Malcolm X</string>
+    <string name="person_bio_4">
+       Malcolm Little, connu sous le nom de Malcolm X, également connu sous le nom d’El-Hajj Malek El-Shabazz (en arabe : الحاج مالك الشباز), né le 19 mai 1925 à Omaha (Nebraska) et mort assassiné le 21 février 1965 à Harlem (État de New York), est un orateur, prêcheur, porte-parole de Nation of Islam, militant politique et défenseur des droits de l\'homme afro-américain.
+            </string>
+
+
+    <string name="person_name_5">Valentina Tereshkova</string>
+    <string name="person_bio_5">
+      née le 6 mars 1937 à Maslennikovo, raïon de Toutaïev dans l\'oblast de Iaroslavl, est la première femme à effectuer un vol dans l\'espace. Seule à bord de son vaisseau spatial Vostok 6 qui décolle le 16 juin 1963 du cosmodrome de Baïkonour, elle passa près de trois jours en orbite basse dans le cadre d\'un vol conjoint avec Valeri Bykovski lancé de son côté à bord du vaisseau Vostok 5 deux jours auparavant.
+              </string>
 
 </resources>
